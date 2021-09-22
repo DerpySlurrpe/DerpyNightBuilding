@@ -19,4 +19,4 @@ Roses:senpai:6
 Thorns:spirit:6
 Cansundrum:pico:7
 Kapi Shuffle:kapi:7
-Singing:kapi:7
+Singing:kapi:8
