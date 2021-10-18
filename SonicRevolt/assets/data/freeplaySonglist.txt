@@ -20,3 +20,4 @@ Thorns:spirit:6
 Kapi Shuffle:kapi:7
 Woomy:kapi:7
 Cansundrum:kapi:7
+Industry:kapi:7

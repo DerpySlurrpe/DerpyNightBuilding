@@ -16,8 +16,5 @@ senpai
 senpai-angry
 spirit
 kapi
-ujisonic
-sonic-run
-super-sonic
 sonic
 hex
