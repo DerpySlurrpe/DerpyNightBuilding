@@ -1,3 +1,0 @@
-sh:normal:1:eai
-bf:normal:-1:suga aqui meus ovo
-sh:kill:1:11

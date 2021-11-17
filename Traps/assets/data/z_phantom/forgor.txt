@@ -1,4 +1,0 @@
-forgotPart
-n_trauma:OH I ALMOST FORGOT
-n_happy:You already collected one of my pieces
-n_happy:Can you hand it over to me?

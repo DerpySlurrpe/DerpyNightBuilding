@@ -1,3 +1,0 @@
-exit
-h_happy:Oh!! Recolectaste muchas piezas!!
-n_happy:Estás haciendo un buen trabajo, sigue así!!

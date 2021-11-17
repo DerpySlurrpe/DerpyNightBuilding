@@ -1,3 +1,0 @@
-menu
-n_normal:...
-n_con:What, do you want me to tell you the hole story#again??

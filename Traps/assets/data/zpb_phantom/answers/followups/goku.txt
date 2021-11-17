@@ -1,3 +1,0 @@
-menu
-h_normal:...
-n_con:Vencer de quem??

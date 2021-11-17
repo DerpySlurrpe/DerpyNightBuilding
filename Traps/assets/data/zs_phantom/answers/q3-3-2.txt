@@ -1,3 +1,0 @@
-menu
-n_normal:...
-n_con:Que, quieres que te cuente la historia completa#denuevo??
