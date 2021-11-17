@@ -1,3 +1,0 @@
-menu
-n_normal:...
-n_con:O quê, quer que eu te conte a história#inteira de novo??

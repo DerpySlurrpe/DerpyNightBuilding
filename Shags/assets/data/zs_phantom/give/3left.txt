@@ -1,4 +1,0 @@
-exit
-h_happy:Gracias bee!!
-n_normal:Ahora faltan 3 piezas
-n_happy:Buena suerte!!!

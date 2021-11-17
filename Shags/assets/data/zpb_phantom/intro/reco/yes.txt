@@ -1,3 +1,0 @@
-continue:intro/first/followups/accept
-n_normal:S-Sério??!
-n_happy:Ai meu deus:introMusic
