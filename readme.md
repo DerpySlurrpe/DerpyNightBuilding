@@ -7,10 +7,15 @@ Optimizing Settings More Smooth
 
 Might be Added..
 Slicker Cooler UI
+.
 New Animations And Mostly Requested Debug Features
+.
 Custom Features Gonna Add (soon)
+.
 Porting the ring mechanic
+.
 betacdiu
+.
 easier way of porting character without crashing the html5 build 
 
 
